@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<customer>
+  <First_Name>Ratan</First_Name>
+  <Last_Name>Tata</Last_Name>
+  <Location>India</Location>
+  <Date_Of_Birth>25-06-1995</Date_Of_Birth>
+  <Phone>647-548-8272</Phone>
+  <Email>tata@tata.com</Email>
+  <Gender>Male</Gender>
+  <Pincode>L5R2W5</Pincode>
+  <Address>India</Address>
+</customer>
